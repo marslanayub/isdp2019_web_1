@@ -1,0 +1,132 @@
+
+.clg{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	height:20px;
+}
+.hed{
+	background:gray;
+	color:white;
+	text-align:center;
+	font-family:jameel noori nastaleeq;
+	line-height: 60px;
+}
+span{
+	font-size:16px;
+}
+.img{
+				margin-left:50px;
+				text-align: center;
+				width: 100%;
+				margin-top: 50px;
+				
+			}
+.brd{
+	border-radius: 8px;
+	
+}
+.brd:hover{
+			border: 2px solid blue;
+			color:blue;
+			font-size:14px;
+			}
+			
+.had{
+	color:blue;
+	font-family:jameel noori nastaleeq;
+	font-size:20px;
+	font-style: bold;
+	text-align:center;
+}
+	h2{
+				font-family:Jameel Noori Nastaleeq;
+				font-size:30px;
+				color:white;
+				background-color:blue;
+				text-align:center;
+				}
+			.para
+			{
+				font-family:Jameel Noori Nastaleeq;
+				color:blue;
+				background-color:white;
+				font-size:20px;
+				
+			}
+
+.bg-jamia{background-color :blue;}
+
+.urdufont{
+    font-family: jameel noori nastaleeq; 
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 500px;
+  }
+  .img-sty{
+	  width:335px;
+	  height:190px;
+	  background-color:white;
+  }
+
+.carousel-inner h1, p{
+font-family: jameel noori nastaleeq;
+}
+
+.btn-test {
+    color: red;
+    background-color: black;
+    border-color: yellow;
+}
+.login{
+	margin-top:-25px;
+	background:blue;
+	width:300px;
+	text-align: center; 
+	padding: 50px;
+	margin-left: 35%;>
+}
+.fa {
+	float: right;
+	margin-top: 10px;
+	margin-right: 10px;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 10px;
+  
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.hh{
+	background: blue;
+	padding: 10px;
+}
+.card{
+	margin-top:0px;
+	background: lightblue;
+	width: 335px;
+	color: black;
+}
+.font-h{
+	font-family: jameel noori nastaleeq;
+	font-size:40px;
+}
